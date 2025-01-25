@@ -4,7 +4,7 @@ hide_title: true
 ---
 
 <Image 
-    url="https://raw.githubusercontent.com/davidsrrose/snow-stake/refs/heads/dev/media/wolf_creek_logo.png"
+    url="https://raw.githubusercontent.com/davidsrrose/snow-stake/refs/heads/main/media/wolf_creek_logo.png"
     description="Sample placeholder image"
     height=80
     align="left"
